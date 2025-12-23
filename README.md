@@ -23,4 +23,9 @@ test-project/Dockerfile
 test-project/docker-compose.yml
 ```
 
+7. Чтобы доставить index.html в контейнер без пересборки образа, можно использовать docker volumes. Как это прописано в docker-compose.yml:
+```
+    volumes:
+      - ./index.html:/usr/share/nginx/html/index.html
+```
 
