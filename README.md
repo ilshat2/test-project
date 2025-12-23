@@ -2,10 +2,11 @@
 1. Директория test-project создана.
 
 2. Dockerfile создан:
-test-project/Dockerfile
+`test-project/Dockerfile`
 
 3. Сборка образа:
 ![](images/create_image.png)
 
 4. Запуск контейнера:
 ![](images/docker_run.png)
+
