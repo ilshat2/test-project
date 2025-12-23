@@ -29,3 +29,11 @@ test-project/docker-compose.yml
       - ./index.html:/usr/share/nginx/html/index.html
 ```
 
+### Задание B1: "Простой скрипт-помощник" (Bash)
+...
+
+### Задание B2: "Маленькая проблема в Git" (Git)
+
+![](images/task_b2.png)
+
+
