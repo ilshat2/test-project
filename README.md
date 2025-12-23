@@ -12,10 +12,11 @@ test-project/Dockerfile
 4. Запуск контейнера:
 ![](images/docker_run.png)
 
-5. Cтраница:
+5. Cтраница в браузере:
 ![](images/localhost.png)
 
 6. docker-compose.yml файл:
 `
 test-project/docker-compose.yml
 `
+
