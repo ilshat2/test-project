@@ -1,4 +1,11 @@
 ### Задание A1: "Собери и запусти" (Docker, Linux, CLI)
-1. Директория создана
-2. Создание Dockerfile
+1. Директория test-project создана.
+
+2. Dockerfile создан:
+test-project/Dockerfile
+
+3. Сборка образа:
 ![](images/create_image.png)
+
+4. Запуск контейнера:
+![](images/docker_run.png)
