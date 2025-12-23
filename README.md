@@ -30,7 +30,8 @@ test-project/docker-compose.yml
 ```
 
 ### Задание B1: "Простой скрипт-помощник"
-...
+
+test-project/simple_script.py
 
 ### Задание B2: "Маленькая проблема в Git" (Git)
 
